@@ -28,7 +28,7 @@
 | **A07** | [기묘하게 춤추는 난쟁이](https://knowyourmeme.com/memes/ai-rumpelstiltskin-tip-toein-in-my-jordans) | 2026.09~10 | 오래된 판타지 영화 한 장면처럼 보이는 기이한 춤. 패러디성 강함. | 자료 / Know Your Meme |
 | **A08** | [올림픽 다이빙하는 동물들](https://www.dexerto.com/tiktok/new-ai-tiktok-trend-turns-animals-into-olympic-divers-3228181/) | 2025 | 동물이 선수처럼 점프하는 비현실적인 장면. 웃기지만 정답이 비교적 쉬울 수 있음. | 자료 / 기사 |
 | **A09** | [금문교에서 점프하는 테슬라](https://leadstories.com/hoax-alert/2026/10/fake-video-tesla-roadster-jumping-off-golden-gate-bridge-ai-generated-digital-aerobatics.html) | 2026.10 | 자동차 스턴트처럼 보이는 최신 합성 영상. **사실 검증 페이지**를 통해 진위 확인. | 자료 / 팩트체크 |
-| **A10** | [밤길에서 여성을 껴안는 사자](https://www.instagram.com/reel/DcRRfYiNXVz/) | 2026.08 | 차 헤드라이트 앞 밤길에서 여성이 무릎을 꿇고 사자를 안음. 2026-08-20 @ten4ic 원본, 사실 검증상 AI 생성. | 자료 / 팩트체크 |
+| **A10** | [밤길에서 여성을 껴안는 사자](https://www.instagram.com/reel/DcRRfYiNXVz/) | 2026.08 | 차 헤드라이트 앞 밤길에서 여성이 무릎을 꿇고 사자를 안음. 2026-08-20 @ten4ic 원본, 사실 검증상 AI 생성. | 원본 Instagram |
 
 ## 🎥 실제 촬영 영상 후보 10개
 
