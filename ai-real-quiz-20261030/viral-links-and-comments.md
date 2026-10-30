@@ -12,7 +12,7 @@
 2. **REAL R01** [트램펄린 위 코요테](https://video.storyful.com/record/35495) — 위 토끼 영상과 짝으로 보여주기 좋음. 실재 야생동물 행동도 충분히 비현실적이라는 반전.
 3. **AI A02** [비행기 탑승권 든 캥거루](https://knowyourmeme.com/memes/emotional-support-kangaroo-rejected-entry-to-plane) — 황당한 설정인데 뉴스·공항 목격 영상처럼 느껴지는 재미.
 4. **REAL R04** [런던 지하철 쥐들의 격투](https://www.independent.co.uk/tv/news/mice-fighting-london-underground-viral-video-b3044090.html) — 작은 동물들의 움직임이 우스꽝스러워 AI 같아 보임.
-5. **AI A10** [사육사를 안아주는 사자](https://www.africacheck.org/fact-checks/meta-programme-fact-checks/shocking-lion-attack-turns-heartwarming-hug-why-you-should) — 위험한 듯하다가 반전되는 10초 퀴즈형 장면.
+5. **AI A10** [밤길에서 여성을 껴안는 사자](https://www.instagram.com/reel/DcRRfYiNXVz/) — 차 헤드라이트 앞에서 여성이 사자를 포옹하는 장면. 2026년 8월 바이럴 AI 영상.
 6. **REAL R05** [울타리를 부수는 코끼리물범](https://www.abc.net.au/news/2026-07-01/neil-crushes-fence/106864904) — 말도 안 되는 크기와 행동 때문에 AI처럼 보이는 실제 영상.
 
 ## 🤖 AI 영상 후보 10개
@@ -28,7 +28,7 @@
 | **A07** | [기묘하게 춤추는 난쟁이](https://knowyourmeme.com/memes/ai-rumpelstiltskin-tip-toein-in-my-jordans) | 2026.09~10 | 오래된 판타지 영화 한 장면처럼 보이는 기이한 춤. 패러디성 강함. | 자료 / Know Your Meme |
 | **A08** | [올림픽 다이빙하는 동물들](https://www.dexerto.com/tiktok/new-ai-tiktok-trend-turns-animals-into-olympic-divers-3228181/) | 2025 | 동물이 선수처럼 점프하는 비현실적인 장면. 웃기지만 정답이 비교적 쉬울 수 있음. | 자료 / 기사 |
 | **A09** | [금문교에서 점프하는 테슬라](https://leadstories.com/hoax-alert/2026/10/fake-video-tesla-roadster-jumping-off-golden-gate-bridge-ai-generated-digital-aerobatics.html) | 2026.10 | 자동차 스턴트처럼 보이는 최신 합성 영상. **사실 검증 페이지**를 통해 진위 확인. | 자료 / 팩트체크 |
-| **A10** | [사육사를 덮쳤다가 안아주는 사자](https://www.africacheck.org/fact-checks/meta-programme-fact-checks/shocking-lion-attack-turns-heartwarming-hug-why-you-should) | 2026.01 | 처음엔 공격처럼 보이지만 의외의 반전. 짧은 퀴즈로 쓰기 좋은 전개. | 자료 / 팩트체크 |
+| **A10** | [밤길에서 여성을 껴안는 사자](https://www.instagram.com/reel/DcRRfYiNXVz/) | 2026.08 | 차 헤드라이트 앞 밤길에서 여성이 무릎을 꿇고 사자를 안음. 2026-08-20 @ten4ic 원본, 사실 검증상 AI 생성. | 자료 / 팩트체크 |
 
 ## 🎥 실제 촬영 영상 후보 10개
 
@@ -44,6 +44,11 @@
 | **R08** | [Smalltown Boy 원조 사람 춤](https://in2mood.com/story) | 2026.08 | 실제 사람의 독특한 춤이 AI 고양이 밈(A06)의 출발점. **원본과 패러디를 짝으로 배치 추천**. | 자료 / 제작자 사이트 |
 | **R09** | [JAWN 춤추는 여성](https://jumponthetrend.app/trends/the-jawn-ai-trend/) | 2026.07 | 과장된 동작이 AI 영상처럼 느껴짐. **실제 촬영 원본과 AI 패러디를 혼동하지 말 것**. | 자료 / 트렌드 설명 |
 | **R10** | [월드컵 유니폼을 입은 오리 Merlin](https://www.euronews.com/video/2026/06/15/meet-merlin-the-duck-that-became-the-world-cups-viral-mascot) | 2026.06 | 유니폼 입고 돌아다니는 진짜 오리. 아주 짧은 장면도 직관적으로 웃김. | 영상 / Euronews |
+
+### A10 진위 확인 근거
+
+- [Lead Stories 팩트체크 (2026-08-26)](https://leadstories.com/hoax-alert/2026/08/fact-check-fake-video-of-lion-reuniting-with-caretaker-ai.html) — 영상에서 여자의 손목시계가 사라지는 등 AI 생성 정황 확인.
+- 원본 Instagram 게시물은 플랫폼 상황에 따라 로그인이나 접속 제한이 있을 수 있음. 본 문서에는 원본 링크만 제공하고 MP4는 재배포하지 않음.
 
 ## 🎯 퀴즈 구성 코멘트
 
