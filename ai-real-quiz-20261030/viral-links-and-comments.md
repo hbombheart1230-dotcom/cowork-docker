@@ -21,6 +21,24 @@
 
 ---
 
+## 🚗 사용자 추가 선택 — 실제 테슬라 공중 스턴트 vs 금문교 AI (2026-10-30)
+
+**우선 추천 페어:** 같은 Tesla Roadster를 소재로, 공식 실차 시연과 허구의 AI 바이럴을 비교한다. 기존 20개 및 Safari Sammie 추가 후보는 보존한다.
+
+| 역할 | 영상 | 링크 | 코멘트 |
+|---|---|---|---|
+| **AI A09** | Tesla Roadster가 금문교에서 바다로 뛰어내렸다가 다시 날아올라오는 영상 | [Lead Stories 검증 및 원본 게시 설명](https://leadstories.com/hoax-alert/2026/10/fake-video-tesla-roadster-jumping-off-golden-gate-bridge-ai-generated-digital-aerobatics.html) | 2026-10-21 SNS 확산. 실제 금문교에서 수행된 시연이 아니라 AI 생성 영상. |
+| **REAL S02 (우선 선택)** | Tesla Roadster **The Kickflip** — 차량 여러 대를 뛰어넘어 공중 회전·착지 | [Tesla 공식 YouTube 영상](https://www.youtube.com/watch?v=r5vsHHPVhJg) | 2026-10-15 텍사스 SpaceX 시험시설에서 진행된 실제 공개 시연의 핵심 장면. AI처럼 보이지만 실차 스턴트. |
+| **REAL S02 대체 구간** | Tesla Roadster **The Ramp** — 거의 수직인 경사로를 거꾸로 올라가 공중 회전·착지 | [Tesla 공식 YouTube 영상](https://www.youtube.com/watch?v=7p5LxFdc-Qg) | 같은 날 공식 시연. 46초 중 핵심 8~11초 발췌에 적합. |
+
+- **Tesla 공식 전체 시연:** [Roadster Event (2026-10-15)](https://www.youtube.com/watch?v=qt5p-_tE8d0) — Ramp 약 06:03, Kickflip 약 10:56부터.
+- **REAL 확인 근거:** [Snopes 검증 기사 (2026-10-16)](https://autos.yahoo.com/ev-and-future-tech/articles/fact-check-real-videos-show-202800684.html) — 라이브 현장 및 방문객 촬영 기록으로 실제 차량 시연임을 뒷받침. 단, 장시간 지속 비행을 시연한 것은 아님.
+- **AI 확인 근거:** [Lead Stories (2026-10-23)](https://leadstories.com/hoax-alert/2026/10/fake-video-tesla-roadster-jumping-off-golden-gate-bridge-ai-generated-digital-aerobatics.html) — 금문교 추락·복귀는 조작된 AI 영상.
+- **편집 권장:** S02는 Kickflip의 이륙→회전→착지가 보이는 연속 8~11초 구간, A09는 금문교 추락→복귀 핵심 장면. 720p / MP4 / 동일한 인코딩으로 비교. 정확한 컷 타임은 원본 재생 후 결정.
+- **사용권한:** Tesla 공식 영상도 자유 재배포 허가를 의미하지 않으므로 영상 MP4를 저장소에 업로드하지 않는다. **현 단계 LINK_ONLY / 다운로드·편집·재배포 권한 NOT_RUN.**
+
+---
+
 ## ⭐ 먼저 볼 영상 6개
 
 1. **AI A01** [트램펄린 위 토끼들](https://www.tiktok.com/@rachelthecatlovers/video/7531584773500751118) — CCTV 같은 구도라서 처음엔 진짜로 믿기 쉬운 대표적인 바이럴 영상.
