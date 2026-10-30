@@ -6,6 +6,21 @@
 - 링크 유형: **[원본]**은 공개 게시물 직링크, **[자료]**는 영상이 포함되거나 영상으로 연결되는 기사/밈 아카이브/검증 페이지다. **[영상]**은 영상 공급사·언론사의 영상 페이지다.
 - **주의:** 현재 파일은 **링크 및 코멘트만** 제공한다. 영상 파일 다운로드·편집·재배포 권한을 뜻하지 않는다. TikTok·Instagram·언론사·Storyful 등의 동영상은 별도 사용 허가가 필요할 수 있다.
 
+## 🦁 사용자 선택 — 사자 포옹 AI/REAL 페어 (2026-10-30)
+
+**선택 상태: 퀴즈 페어 후보 확정 / 최종 MP4는 미제작.** 기존 AI 10개·REAL 10개 목록을 보존하면서, 사용자 지정 실제 영상 **S01**을 추가한다. 따라서 조사 후보는 20개 + 추가 선택 1개다.
+
+| 역할 | 영상 | 링크 | 설명 |
+|---|---|---|---|
+| **AI A10** | 밤 도로에서 여성을 껴안는 사자 | [원본 Instagram](https://www.instagram.com/reel/DcRRfYiNXVz/) · [AI 판별 근거](https://leadstories.com/hoax-alert/2026/08/fact-check-fake-video-of-lion-reuniting-with-caretaker-ai.html) | 야간 도로와 차량 불빛, 여성이 사자를 안는 모습. 2026년 8월 화제 영상. |
+| **REAL S01 (선택)** | Safari Sammie가 백사자를 끌어안는 실제 촬영 영상 | [영상 포함 NDTV 기사](https://www.ndtv.com/offbeat/beautiful-but-terrifying-video-shows-woman-snuggling-with-majestic-white-lion-6587185) | Samantha Faircloth(Safari Sammie)가 거대한 백사자와 포옹하는 장면. 2024년 공개 사례. 밤길 장면과 같은 '사자와 사람의 스킨십' 소재. |
+
+**대체 원본 후보:** [Safari Sammie 제작자 계정의 2025년 사자 영상 (Snapchat Spotlight)](https://www.snapchat.com/%40safarisammi/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYdXBhdXR6d3Z3AZb1XKIoAZb1XGvtAAAAAQ)
+
+**편집 방향:** 각각 8~11초, 인물과 사자의 접촉이 선명한 순간을 사용. 영상에 AI/REAL 정답을 표시하지 않는다. 단, **촬영자 및 권리자가 10초 편집과 GitHub MP4 재배포를 허용했는지는 아직 확인되지 않았으므로 LINK_ONLY**로 유지한다. SNS 게시와 기사 임베드 자체가 재배포 허가는 아니다. 기존 5+5 선정 목록에서 어떤 REAL 영상을 대체할지는 추후 최종 구성 시 반영한다.
+
+---
+
 ## ⭐ 먼저 볼 영상 6개
 
 1. **AI A01** [트램펄린 위 토끼들](https://www.tiktok.com/@rachelthecatlovers/video/7531584773500751118) — CCTV 같은 구도라서 처음엔 진짜로 믿기 쉬운 대표적인 바이럴 영상.
